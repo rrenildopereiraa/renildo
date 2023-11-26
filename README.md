@@ -40,15 +40,16 @@
 
 ## Skills
 
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React](https://react.dev/)
-- JavaScript
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Yumma CSS](https://yummacss.netlify.app/)
 - [SCSS](https://sass-lang.com/documentation/syntax/)
 - [Git / GitHub](https://git-scm.com/)
-- [Node JS](https://nodejs.org/en)
-- [Express JS](https://expressjs.com/)
-- [Gulp JS](https://gulpjs.com/)
-- User Experience (UX)
+- [Node.js](https://nodejs.org/en)
+- [Express.js](https://expressjs.com/)
+- [Gulp.js](https://gulpjs.com/)
+-  User Experience (UX)
 - [Relational Database (MySQL)](https://www.mysql.com/)
 - [Figma](https://www.figma.com/)
 
