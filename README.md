@@ -44,7 +44,7 @@
 - JavaScript
 - [Tailwind CSS](https://tailwindcss.com/)
 - [SCSS](https://sass-lang.com/documentation/syntax/)
-- [Git / GitHub]
+- [Git / GitHub](https://git-scm.com/)
 - [Node JS](https://nodejs.org/en)
 - [Express JS](https://expressjs.com/)
 - [Gulp JS](https://gulpjs.com/)
