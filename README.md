@@ -57,4 +57,4 @@
 
 - LinkedIn: [Renildo Pereira](https://www.linkedin.com/in/rrenildopereiraa)
 - GitHub: [rrenildopereiraa](https://github.com/rrenildopereiraa)
-- Resume: [Resume](https://www.icloud.com/iclouddrive/0e0XVcyBq5xMwM5CHXNDxOosw#Renildo_Pereira_-_Curr%C3%ADculo)
+- Resume: [Resume](https://cvws.icloud-content.com/B/AZ1v3EOdrSglf75QdJs0Qntmm4gmAU8cUenlukjxOSFCBtMsz9UVxTRf/Renildo+Pereira+-+Curr%C3%ADculo.pdf?o=Asifex4-zs0I0Jasr4QrnvKClax5c-wQYhPxnVc6mqkW&v=1&x=3&a=CAog-1yRYOnN85eUGN6DJi6ZHqGmr7MYLECJsC2Vs4whJqESbxCL6PDuwDEYi8XM8MAxIgEAUgRmm4gmWgQVxTRfaif_9jZ4fJZOZ4fweiqefP0lPdOWY4gdjmtTVeevM4-px4JsaGKuIANyJ7ZSuXC_vu2Hf2yGfGSlAJrI3P9Sf5opBQzugl8CmQhjNYw-IykVxg&e=1701043184&fl=&r=e01dfbce-c231-4795-b98e-2002471909d7-1&k=Vj02xiUlpDzugwYteLPOdA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=143&s=B6rfmRGU__1bmLGHC74nSnneUW4&cd=i)
