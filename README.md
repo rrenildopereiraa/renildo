@@ -40,17 +40,17 @@
 
 ## Skills
 
-- React
+- [React](https://react.dev/)
 - JavaScript
-- TailwindCSS
-- SCSS
-- Git / GitHub
-- Node JS
-- Express JS
-- Gulp JS
+- [Tailwind CSS](https://tailwindcss.com/)
+- [SCSS](https://sass-lang.com/documentation/syntax/)
+- [Git / GitHub]
+- [Node JS](https://nodejs.org/en)
+- [Express JS](https://expressjs.com/)
+- [Gulp JS](https://gulpjs.com/)
 - User Experience (UX)
-- Relational Database (MySQL)
-- Figma
+- [Relational Database (MySQL)](https://www.mysql.com/)
+- [Figma](https://www.figma.com/)
 
 ## Connect with Me
 
