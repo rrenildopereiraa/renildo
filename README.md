@@ -1,12 +1,24 @@
 # Renildo Pereira - Full-Stack Developer
 
-Hello 👋🏽 I'm Renildo Pereira. I'm 22 years old and I'm a Full-Stack developer with 2 years of experience working as a freelancer.
+<h3 align="center">About Me</h3>
 
-## About Me
+<p align="center">
+  Hello 👋🏽 I'm Renildo Pereira. I'm 22 years old and I'm a Full-Stack developer with 2 years of experience working as a freelancer.
+</p>
 
-- Full-Stack Developer
-- [Portfolio Website](https://rrenildopereiraa.github.io/renildo/)
-- Email: [rrenildopereiraa@icloud.com](mailto:rrenildopereiraa@icloud.com)
+<p align="center">
+  <a target="_blank" href="https://github.com/rrenildopereiraa">
+    Full-Stack Developer
+  </a>
+•   
+  <a target="_blank" href="https://rrenildopereiraa.github.io/renildo/">
+    Portfolio Website
+  </a>
+•   
+  <a target="_blank" href="mailto:rrenildopereiraa@icloud.com">
+    Email
+  </a>
+</p>
 
 ## Projects
 
