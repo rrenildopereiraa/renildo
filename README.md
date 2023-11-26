@@ -27,7 +27,7 @@
 ![Yumma CSS Screenshot](https://i.ibb.co/B6dkfqK/Yumma-CSS.png)
 
 - **Description:** Yumma CSS is a CSS Library.
-- **Project Link:** [www.yummacss.netlify.app](https://yummacss.netlify.app/)
+- **Project Link:** [www.yummacss.vercel.app](https://yummacss.vercel.app/)
 - **GitHub Repository:** [Yumma CSS](https://github.com/yumma-lib/yumma-css)
 
 ### 2. Skylux App
@@ -43,7 +43,7 @@
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Yumma CSS](https://yummacss.netlify.app/)
+- [Yumma CSS](https://yummacss.vercel.app/)
 - [SCSS](https://sass-lang.com/documentation/syntax/)
 - [Git / GitHub](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
