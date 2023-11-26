@@ -57,4 +57,4 @@
 
 - LinkedIn: [Renildo Pereira](https://www.linkedin.com/in/rrenildopereiraa)
 - GitHub: [rrenildopereiraa](https://github.com/rrenildopereiraa)
-- Resume: [Resume](https://onedrive.live.com/view.aspx?resid=BFB263A9F5CB3218%21166&authkey=!AF6iYK6lTT3qikQ)
+- Resume: [Resume](https://www.icloud.com/iclouddrive/0ea6LjEsO6FtAYzPYj49ND-KA#Renildo_Pereira_-_Curr%C3%ADculo)
