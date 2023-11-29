@@ -1,6 +1,6 @@
 {
   "name": "renildo",
-  "version": "0.1.0",
+  "version": "1.0",
   "description": "Portfólio pessoal",
   "main": "index.html",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Renildo Pereira",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "yummacss": "^0.2.0"
+  }
 }
