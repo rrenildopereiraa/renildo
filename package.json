@@ -1,12 +1,9 @@
 {
   "name": "renildo",
   "version": "1.0",
-  "description": "Portfólio pessoal",
+  "description": "O Meu Portfólio Pessoal",
   "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "keywords": ["personal", "portfolio", "personal portfolio"],
   "author": "Renildo Pereira",
   "license": "ISC"
 }

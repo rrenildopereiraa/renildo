@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://github.com/rrenildopereiraa">
+  <a target="_blank" rel="noopener" href="https://github.com/rrenildopereiraa">
     Full-Stack Developer
   </a>
 •   
-  <a target="_blank" href="https://rrenildopereiraa.github.io/renildo/">
+  <a target="_blank" rel="noopener" href="https://rrenildopereiraa.github.io/renildo/">
     Portfolio Website
   </a>
 •   
-  <a target="_blank" href="mailto:rrenildopereiraa@icloud.com">
+  <a target="_blank" rel="noopener" href="mailto:rrenildopereiraa@icloud.com">
     Email
   </a>
 </p>
