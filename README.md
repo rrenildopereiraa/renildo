@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rrenildopereiraa.github.io/renildo/" target="_blank" rel="noopener">
-    <img src="https://rrenildopereiraa.github.io/renildo/public/images/me.jpeg" width="64" bordeRadius="999px" alt="Vipercel Logo">
+    <img src="./public/images/Renildo.jpeg" width="64" bordeRadius="999px" alt="Renildo Logo">
   </a>
 </p>
 
@@ -16,12 +16,16 @@
 
  ---
 <div align="center">
-<h3>My projects</h3>
-<p>Here it is some of my recent projects I've been working on. Follow me on <a href="https://www.linkedin.com/in/rrenildopereiraa/">Linked In</a> where I post updates about my current projects and more.</p>
-<a href="https://yummacss.vercel.app/">Yumma CSS</a>
-  •
-  <a href="https://vipercel.vercel.app/">Vipercel</a>
-  •
-  <a href="https://skyluxmc.vercel.app.">Skylux Blog</a>
+  <h3>My projects</h3>
+  <p>Here it is some of my recent projects I've been working on. Follow me on <a href="https://www.linkedin.com/in/rrenildopereiraa/">Linked In</a> where I post updates about my current projects and more.</p>
+  <a href="https://yummacss.vercel.app/">Yumma CSS</a>
+    •
+    <a href="https://vipercel.vercel.app/">Vipercel</a>
+    •
+    <a href="https://skyluxmc.vercel.app.">Skylux Blog</a>
+</div>
+
+<div align="center">
+  <img src="./public/images/Mockups.png" alt="Mockups">
 </div>
 
