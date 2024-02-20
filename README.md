@@ -18,7 +18,7 @@
 <div align="center">
   <h3>My projects</h3>
   <p>Here it is some of my recent projects I've been working on. Follow me on <a href="https://www.linkedin.com/in/rrenildopereiraa/">Linked In</a> where I post updates about my current projects and more.</p>
-  <a href="https://yummacss.vercel.app/">Yumma CSS</a>
+  <a href="https://yummacss.com">Yumma CSS</a>
     •
     <a href="https://vipercel.vercel.app/">Vipercel</a>
     •
