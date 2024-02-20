@@ -14,7 +14,7 @@
   <br>
 </p>
 
- ---
+---
 
 <div align="center">
   <h3>My projects</h3>
