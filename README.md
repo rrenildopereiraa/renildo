@@ -29,4 +29,3 @@
 <div align="center">
   <img src="./public/images/Mockups.png" alt="Mockups">
 </div>
-
