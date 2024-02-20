@@ -15,6 +15,7 @@
 </p>
 
  ---
+
 <div align="center">
   <h3>My projects</h3>
   <p>Here it is some of my recent projects I've been working on. Follow me on <a href="https://www.linkedin.com/in/rrenildopereiraa/">Linked In</a> where I post updates about my current projects and more.</p>
